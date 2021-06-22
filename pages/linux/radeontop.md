@@ -9,7 +9,7 @@
 
 - Enable colourised output:
 
-`sudo radeontop --colour`
+`sudo radeontop --color`
 
 - Select a specific GPU (the bus number is the first number in the output of `lspci`):
 
